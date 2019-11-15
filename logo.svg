@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2200pt"
+     height="800pt"
+     viewBox="0 0 2200 800"
+     version="1.1">
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:500|Open+Sans:500|Work+Sans');
+    </style>
+    
+    <style>
+        * {
+            stroke:      rgb(100%,100%,100%);
+            fill:        rgb(100%,100%,100%);
+        }
+        
+        text {
+            font-size:   300px;
+            font-family: 'Work Sans', sans-serif;
+        }
+    </style>
+    
+    <g id="mark" transform="translate(100, 100) scale(700, 700)">
+        <path style="fill:none;stroke-width:0.04;" d="M 0 0 L 0.5 0 C 0.5 0.2 0.4 0.5 0.2 0.8 Z M 0 0 " />
+        <path style="fill:none;stroke-width:0.06;" d="M 0.02 0.01 L 0.21 0.78 " />
+    </g>
+    
+    <text x="550" y="350" style="font-size:300px;" font-family="Open Sans">Extreme</text>
+    <text x="550" y="650" style="font-size:300px;" font-family="Open Sans">Rationalism</text>
+</svg>
